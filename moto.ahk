@@ -26,6 +26,7 @@ while 0=0 {
 
 	if (color= 0x928065) ; This checks the color of the pixel when the window is active to see if it is the color to buy it
 	{
+		sleep 1000
 		click Buttonx, Buttony	; Click the buy button
 
 		click right 800, 530 ; Open up menu
