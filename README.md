@@ -39,7 +39,7 @@ You will most likely need to edit the file for your screen.
  2. Use Window Spy and record the x and y position for the buy button from the https://play.google.com/store/devices/details/Moto_360_Black_Leather?id=motorola_moto_360_leather_black page
  3. Put in for Button2x/y
  4. Go back to browsing on your 2nd monitor. 
-  <h3>This only works when the both broswers stay in the same position and you have the 1st or 2nd browser activated.
+  <h3>This only works when the both broswers stay in the same position and you have the browser in either monitor  activated.
 
 I know this code is fairly sloppy so ask me if you need any help with explaining.<br/>
 It may not go throught all the way of the purchase, but as long as it clicks the button in the first place, the rest isn't too hard to do on your own.
