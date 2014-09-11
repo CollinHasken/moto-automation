@@ -29,7 +29,8 @@ You will most likely need to edit the file for your screen.
  14. Now go to the moto.ahk file and replace the Buttonx/y, Buyx/y, Addressx/y and Finalx/y in the order you recorded
  15. Change the BandColor to Grey if you want grey
  16. Save the file, right click on the Green H in the task bar, and click Reload This Script
- 17. Make sure to go back to the Moto 360 page and make it the active window<br/><br/>
+ 17. Make sure to go back to the Moto 360 page and make it the active window
+ 18. Right click, go into Reload Tab Every, click custom and make it 10 seconds. Then right click and check to make sure it is enabled<br/><br/>
  <h4>To stop the script, right click on the Green H in the task bar and click exit or Pause Script</h4>
  
 <h3>For Dual Monitors</h3>
